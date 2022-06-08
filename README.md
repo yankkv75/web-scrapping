@@ -1,5 +1,4 @@
 # Scraping
-Web scraping python
   
 ## Using:
 * requests
