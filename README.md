@@ -1,5 +1,4 @@
-# Scraping
-  
+# Web scraping
 ## Using:
 * requests
 * bs4
